@@ -266,7 +266,7 @@ All monetary amounts are stored in **minor units** (paise for INR, cents for USD
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                    AUTH & CATALOG                        │
+│                    AUTH & CATALOG                       │
 │  User, Customer, Product, Plan, AddOn                   │
 └────────────────────────┬────────────────────────────────┘
                          │
